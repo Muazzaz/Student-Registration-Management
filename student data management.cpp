@@ -646,23 +646,23 @@ public:
 
 
 
-class sub
-{
-
-public:
-    virtual void subject()
-    {
-        cout<<"kisui print korbena bal!!!!!"<<endl;
-    }
-};
-
-class subj:public sub
-{
-    void subject()
-    {
-        cout<<
-    }
-};
+//class sub
+//{
+//
+//public:
+//    virtual void subject()
+//    {
+//        cout<<"kisui print korbena bal!!!!!"<<endl;
+//    }
+//};
+//
+//class subj:public sub
+//{
+//    void subject()
+//    {
+//        cout<<
+//    }
+//};
 
 
 
@@ -698,12 +698,12 @@ cout<<"Student Database Management\n\t\t\t\t\t\tPrepared By Hasan Al Muazzaz\n\t
         cout<<"\t\t\t\t\t\t";
         cout<<" 8. Course Teacher"<<endl<<endl;
         cout<<"\t\t\t\t\t\t";
-        cout<<" 9. Course Subject"<<endl<<endl;
-        cout<<"\t\t\t\t\t\t";
-        cout<<"10. Exit"<<endl<<endl;
+//        cout<<" 9. Course Subject"<<endl<<endl;
+//        cout<<"\t\t\t\t\t\t";
+        cout<<" 9. Exit"<<endl<<endl;
         cout<<endl;
         cout<<"\t\t\t\t\t\t";
-        cout<<"Choose options:[1/2/3/4/5/6/7/8/9/10]:"<<endl<<endl<<endl;
+        cout<<"Choose options:[1/2/3/4/5/6/7/8/9]:"<<endl<<endl<<endl;
 
 
 
@@ -718,10 +718,10 @@ cout<<"Student Database Management\n\t\t\t\t\t\tPrepared By Hasan Al Muazzaz\n\t
                 cout<<"1.Main menu\n2.exit"<<endl;
                 cin>>opt;
 
-                    if(opt==1)
-                    {
-
-                    }
+//                    if(opt==1)
+//                    {
+//
+//                    }
                     if(opt==2)
                     {
                         break;
@@ -735,10 +735,10 @@ cout<<"Student Database Management\n\t\t\t\t\t\tPrepared By Hasan Al Muazzaz\n\t
                 cout<<"1.Main menu\n2.exit"<<endl;
                 cin>>opt;
 
-                    if(opt==1)
-                    {
-
-                    }
+//                    if(opt==1)
+//                    {
+//
+//                    }
                     if(opt==2)
                     {
                         break;
@@ -751,11 +751,11 @@ cout<<"Student Database Management\n\t\t\t\t\t\tPrepared By Hasan Al Muazzaz\n\t
                 update();
                 cout<<"1.Main menu\n2.exit"<<endl;
                 cin>>opt;
-
-                    if(opt==1)
-                    {
-
-                    }
+//
+//                    if(opt==1)
+//                    {
+//
+//                    }
                     if(opt==2)
                     {
                         break;
@@ -769,10 +769,10 @@ cout<<"Student Database Management\n\t\t\t\t\t\tPrepared By Hasan Al Muazzaz\n\t
                 cout<<"1.Main menu\n2.exit"<<endl;
                 cin>>opt;
 
-                    if(opt==1)
-                    {
-
-                    }
+//                    if(opt==1)
+//                    {
+//
+//                    }
                     if(opt==2)
                     {
                         break;
@@ -787,10 +787,10 @@ cout<<"Student Database Management\n\t\t\t\t\t\tPrepared By Hasan Al Muazzaz\n\t
                 cout<<"1.Main menu\n2.exit"<<endl;
                 cin>>opt;
 
-                    if(opt==1)
-                    {
-
-                    }
+//                    if(opt==1)
+//                    {
+//
+//                    }
                     if(opt==2)
                     {
                         break;
@@ -806,10 +806,10 @@ cout<<"Student Database Management\n\t\t\t\t\t\tPrepared By Hasan Al Muazzaz\n\t
                 cout<<"1.Main menu\n2.exit"<<endl;
                 cin>>opt;
 
-                    if(opt==1)
-                    {
-
-                    }
+//                    if(opt==1)
+//                    {
+//
+//                    }
                     if(opt==2)
                     {
                         break;
@@ -824,11 +824,11 @@ cout<<"Student Database Management\n\t\t\t\t\t\tPrepared By Hasan Al Muazzaz\n\t
                 a.searc(x);
                 cout<<"1.Main menu\n2.exit"<<endl;
                 cin>>opt;
-
-                    if(opt==1)
-                    {
-
-                    }
+//
+//                    if(opt==1)
+//                    {
+//
+//                    }
                     if(opt==2)
                     {
                         break;
@@ -843,10 +843,10 @@ cout<<"Student Database Management\n\t\t\t\t\t\tPrepared By Hasan Al Muazzaz\n\t
                 cout<<"1.Main menu\n2.exit"<<endl;
                 cin>>opt;
 
-                    if(opt==1)
-                    {
-
-                    }
+//                    if(opt==1)
+//                    {
+//
+//                    }
                     if(opt==2)
                     {
                         break;
@@ -860,10 +860,10 @@ cout<<"Student Database Management\n\t\t\t\t\t\tPrepared By Hasan Al Muazzaz\n\t
                     cout<<"1.Main menu\n2.exit"<<endl;
                 cin>>opt;
 
-                    if(opt==1)
-                    {
-
-                    }
+//                    if(opt==1)
+//                    {
+//
+//                    }
                     if(opt==2)
                     {
                         break;
