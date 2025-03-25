@@ -1,0 +1,24 @@
+1
+1
+ECE 1101 Circuits and Systems – I
+3.00
+ECE 1102 Circuits and Systems -I Sessional
+1.50
+ECE 1103 Computer Programming
+3.00
+ECE 1104 Computer Programming Sessional
+1.50
+Math 1117 Calculus and Co-ordinate Geometry
+3.00
+Phy 1117 Optics and Modern Physics
+3.00
+Phy 1118 Optics and Modern Physics Sessional
+0.75
+Hum 1117 Technical English
+3.00
+Hum 1118 Technical English Sessional
+0.75
+ECE 1100 Introduction to Computer System
+0.75
+1
+2
