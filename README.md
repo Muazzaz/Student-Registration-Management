@@ -25,7 +25,7 @@ The program utilizes file handling for persistent data storage.
 ## Installation and Usage
 1. **Clone the repository or copy the source code.**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Muazzaz/Student-Registration-Management.git>
    ```
 2. **Compile the program**
    ```bash
